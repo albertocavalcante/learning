@@ -1,0 +1,8 @@
+{
+    // Source: https://stackoverflow.com/questions/46111834/format-curly-braces-on-same-line-in-c-vscode
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0 }",
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "ostream": "cpp"
+    },
+}
