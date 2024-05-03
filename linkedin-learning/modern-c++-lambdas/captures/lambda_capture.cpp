@@ -1,7 +1,7 @@
 // (sort of) Source: https://www.linkedin.com/learning/modern-c-plus-plus-lambdas/lambda-capture
 #include <iostream>
 
-void print_bool(char* name, bool v) {
+void print_bool(const char* name, bool v) {
     std::cout << name << ": " << v << '\n';
 }
 
